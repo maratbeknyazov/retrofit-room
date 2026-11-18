@@ -1,0 +1,23 @@
+.gradle/
+.kotlin/
+.idea/
+local.properties
+**/build/
+*.iml
+.project
+.classpath
+.factorypath
+.settings/
+
+
+# Local outputs and operating system files
+.work/
+out/
+*.apk
+*.log
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Local Markdown files
+*.md
